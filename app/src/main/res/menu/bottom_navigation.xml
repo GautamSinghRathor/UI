@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="HOME" />
+
+    <item android:id="@+id/navigation_test"
+        android:icon="@drawable/ic_assignment_black_24dp"
+        android:title="TESTS" />
+
+    <item android:id="@+id/navigation_analysis"
+        android:icon="@drawable/ic_trending_down_black_24dp"
+        android:title="ANALYSIS" />
+
+    <item android:id="@+id/navigation_doubt"
+        android:icon="@drawable/ic_question_answer_black_24dp"
+        android:title="DOUBTS" />
+
+    <item android:id="@+id/navigation_profile"
+        android:icon="@drawable/ic_account_box_black_24dp"
+        android:title="PROFILE" />
+
+</menu>
